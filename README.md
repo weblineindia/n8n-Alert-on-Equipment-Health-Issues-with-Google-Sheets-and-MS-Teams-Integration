@@ -1,0 +1,2 @@
+# n8n-Alert-on-Equipment-Health-Issues-with-Google-Sheets-and-MS-Teams-Integration
+This n8n workflow automatically monitors equipment health by fetching real-time metrics like temperature, voltage and operational status. If any of these parameters cross critical thresholds, an alert is instantly sent to a Microsoft Teams channel and the event is logged in Google Sheets. The workflow runs every 15 minutes by default.
